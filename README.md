@@ -25,10 +25,6 @@ The main components of the Hangman game include:
 
 This structure allows the game to provide real-time feedback and maintain a smooth, interactive experience.
 
-## Requirements
-
-- Python 3.x
-
 
 ---
 
